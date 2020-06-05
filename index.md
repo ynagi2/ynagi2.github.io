@@ -11,7 +11,7 @@
   - 第12回データ工学と情報マネジメントに関するフォーラム(DEIM 2020)
 
 # アカウント
-- mail: s1711576 at klis.tsukuba.ac.jp
+- mail: ynagi2 at klis.tsukuba.ac.jp
 - [Twitter](https://twitter.com/antimony_sulfur)
 - [GitHub](https://github.com/ynagi2)
 - [Medium](https://medium.com/@ynagi2)
