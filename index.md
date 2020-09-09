@@ -3,6 +3,10 @@
 - 2017年4月 筑波大学情報学群知識情報・図書館学類 入学
 - [知識獲得システム研究室](https://kasys.slis.tsukuba.ac.jp/)所属
 
+# 所属
+- 2020年8月- ACM SIGIR 東京支部 会員
+- 2020年9月- 日本データベース学会 学生会員
+
 # 研究業績
 - 柳田雄輝, 若林啓, 佐藤哲司. 動画共有サイトにおけるコメント語彙の時系列解析手法の提案. 第12回データ工学と情報マネジメントに関するフォーラム(DEIM 2020). 2020, https://proceedings-of-deim.github.io/DEIM2020/papers/G2-2.pdf.
   - [paper][slide](https://speakerdeck.com/ynagi2/temporal-analysis-of-comment-vocabulary-in-a-video-sharing-service)
