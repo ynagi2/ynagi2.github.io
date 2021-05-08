@@ -26,11 +26,13 @@
 - Mar. 2021. テクニカルコミュニケーター専門課程修了
 
 # その他の活動
-- IR Reading 2020春(オンライン) にて論文紹介
-  - [slide](https://speakerdeck.com/ynagi2/irreading2020spring-yanagida)
-
-- IR Reading 2020秋(オンライン) にて論文紹介
-  - [slide](https://speakerdeck.com/ynagi2/irreading2020fall-yanagida)
+- IR Reading にて論文紹介
+  - 2020春(オンライン)
+    - [slide](https://speakerdeck.com/ynagi2/irreading2020spring-yanagida)
+  - 2020秋(オンライン)
+    - [slide](https://speakerdeck.com/ynagi2/irreading2020fall-yanagida)
+  - 2021春(オンライン)
+    - [slide](https://speakerdeck.com/ynagi2/irreading2021spring-yanagida)
 
 # アカウント
 - mail: ynagi2 at klis.tsukuba.ac.jp
