@@ -11,9 +11,9 @@
 - **柳田雄輝**, 加藤誠, 河田友香, 山本岳洋, 大島裕明, 藤田澄男. 検索行動に基づく購買満足度の関係分析. 第14回データ工学と情報マネジメントに関するフォーラム(DEIM 2022). オンライン, Feb. 2022.
   - [paper]() [slide](https://speakerdeck.com/ynagi2/pre-and-post-purchase-search-behavior-analysis)
 - **柳田雄輝**, 加藤誠. 深層強化学習を用いたノード分類. 第13回データ工学と情報マネジメントに関するフォーラム(DEIM 2021). オンライン, Mar. 2021.
-  - [paper](pubs/DEIM2021_Node-Classification-Using-Deep-Reinforcement-Learning.pdf) [slide](https://speakerdeck.com/ynagi2/node-classification-using-deep-reinforcement-learning)
+  - [paper](https://proceedings-of-deim.github.io/DEIM2021/papers/E14-3.pdf) [slide](https://speakerdeck.com/ynagi2/node-classification-using-deep-reinforcement-learning)
 - **柳田雄輝**, 若林啓, 佐藤哲司. 動画共有サイトにおけるコメント語彙の時系列解析手法の提案. 第12回データ工学と情報マネジメントに関するフォーラム(DEIM 2020). オンライン, Mar. 2020.
-  - [paper](pubs/DEIM2020_Temporal-Analysis-of-Comment-Vocabulary-in-A-Video-Sharing-Service.pdf) [slide](https://speakerdeck.com/ynagi2/temporal-analysis-of-comment-vocabulary-in-a-video-sharing-service)
+  - [paper](https://proceedings-of-deim.github.io/DEIM2020/papers/G2-2.pdf) [slide](https://speakerdeck.com/ynagi2/temporal-analysis-of-comment-vocabulary-in-a-video-sharing-service)
 
 ## 受賞
 - **学生プレゼンテーション賞**
