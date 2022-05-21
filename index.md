@@ -7,9 +7,9 @@
 
 ## 研究業績
 - 河田友香, 山本岳洋, 大島裕明, **柳田雄輝**, 加藤誠, 藤田澄男. ECサイトでのカメラ購買前後におけるWeb検索クエリの時系列分析. 第14回データ工学と情報マネジメントに関するフォーラム(DEIM 2022). オンライン, Mar. 2022.
-  - [paper]()
+  - [paper](https://proceedings-of-deim.github.io/DEIM2022/papers/C41-4.pdf)
 - **柳田雄輝**, 加藤誠, 河田友香, 山本岳洋, 大島裕明, 藤田澄男. 検索行動に基づく購買満足度の関係分析. 第14回データ工学と情報マネジメントに関するフォーラム(DEIM 2022). オンライン, Feb. 2022.
-  - [paper]() [slide](https://speakerdeck.com/ynagi2/pre-and-post-purchase-search-behavior-analysis)
+  - [paper](https://proceedings-of-deim.github.io/DEIM2022/papers/E23-3.pdf) [slide](https://speakerdeck.com/ynagi2/pre-and-post-purchase-search-behavior-analysis)
 - **柳田雄輝**, 加藤誠. 深層強化学習を用いたノード分類. 第13回データ工学と情報マネジメントに関するフォーラム(DEIM 2021). オンライン, Mar. 2021.
   - [paper](https://proceedings-of-deim.github.io/DEIM2021/papers/E14-3.pdf) [slide](https://speakerdeck.com/ynagi2/node-classification-using-deep-reinforcement-learning)
 - **柳田雄輝**, 若林啓, 佐藤哲司. 動画共有サイトにおけるコメント語彙の時系列解析手法の提案. 第12回データ工学と情報マネジメントに関するフォーラム(DEIM 2020). オンライン, Mar. 2020.
@@ -42,6 +42,8 @@
 
 ## その他の活動
 - IR Reading にて論文紹介
+  - 2022春(オンライン)
+    - [slide](https://speakerdeck.com/ynagi2/irreading2022spring-yanagida)
   - 2021春(オンライン)
     - [slide](https://speakerdeck.com/ynagi2/irreading2021spring-yanagida)
   - 2020秋(オンライン)
