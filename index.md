@@ -6,6 +6,12 @@
 - Apr. 2020. - current [知識獲得システム研究室](https://kasys.slis.tsukuba.ac.jp/)
 
 ## 研究業績
+
+### 論文誌
+- **柳田雄輝**, 加藤誠, 河田友香, 山本岳洋, 大島裕明, 藤田澄男. 検索行動に基づく購買満足度の関係分析. データドリブンスタディーズ. Mar. 2023. Vol. 1, No. 3.
+  - [paper]
+
+### 会議論文
 - 河田友香, 山本岳洋, 大島裕明, **柳田雄輝**, 加藤誠, 藤田澄男. ECサイトでのカメラ購買前後におけるWeb検索クエリの時系列分析. 第14回データ工学と情報マネジメントに関するフォーラム(DEIM 2022). オンライン, Mar. 2022.
   - [paper](https://proceedings-of-deim.github.io/DEIM2022/papers/C41-4.pdf)
 - **柳田雄輝**, 加藤誠, 河田友香, 山本岳洋, 大島裕明, 藤田澄男. 検索行動に基づく購買満足度の関係分析. 第14回データ工学と情報マネジメントに関するフォーラム(DEIM 2022). オンライン, Feb. 2022.
@@ -41,6 +47,8 @@
 - Sep. 2019. 普通自動車第一種運転免許(AT限定)
 
 ## その他の活動
+- 第42回先端的データベースとWeb技術動向講演会(ACM SIGMOD 日本支部第79回支部大会)にてThe Web Conference 2022 国際会議報告
+  - [担当部分のslide](https://speakerdeck.com/ynagi2/sigmod-j-79-yanagida)
 - IR Reading にて論文紹介
   - 2022春(オンライン)
     - [slide](https://speakerdeck.com/ynagi2/irreading2022spring-yanagida)
