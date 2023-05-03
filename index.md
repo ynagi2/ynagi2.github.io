@@ -1,9 +1,9 @@
 柳田 雄輝(YANAGIDA Yuki)
 
 ## 所属
-- Sep. 2020. - current [日本データベース学会](https://dbsj.org/) 学生会員
 - Aug. 2020. - current [ACM SIGIR 東京支部](https://sigir.jp/) 会員
-- Apr. 2020. - current [知識獲得システム研究室](https://kasys.slis.tsukuba.ac.jp/)
+- Sep. 2020. - Mar. 2023 [日本データベース学会](https://dbsj.org/) 学生会員
+- Apr. 2020. - Mar. 2023 [知識獲得システム研究室](https://kasys.slis.tsukuba.ac.jp/)
 
 ## 研究業績
 
@@ -12,14 +12,14 @@
   - [paper](https://dbsj.org/wp-content/uploads/2023/01/dds-vol1-no3.pdf)
 
 ### 国際会議論文
-- **Yuki Yanagida**, Makoto P. Kato, Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima and Sumio Fujita. What Web Search Behaviors Lead to Online Purchase Satisfaction?. In Proceedings of the 15th ACM Web Science Conference (WebSci 2023). Online & Austin, Texas, USA.
-  - [paper]
+- **Yuki Yanagida**, Makoto P. Kato, Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima and Sumio Fujita. What Web Search Behaviors Lead to Online Purchase Satisfaction?. In Proceedings of the 15th ACM Web Science Conference (WebSci 2023). Online & Austin, Texas, USA., Apr. 2023.
+  - [paper](https://dl.acm.org/doi/pdf/10.1145/3578503.3583615) [slide](https://speakerdeck.com/ynagi2/what-web-search-behaviors-lead-to-online-purchase-satisfaction-en)
 
 ### 国内会議論文
 - 河田友香, 山本岳洋, 大島裕明, **柳田雄輝**, 加藤誠, 藤田澄男. 商品属性とレビューの対応関係学習に基づく言語モデル構築. 第15回データ工学と情報マネジメントに関するフォーラム(DEIM 2023). オンライン&岐阜県岐阜市, Mar. 2023.
-  - [paper]
+  - [paper](https://proceedings-of-deim.github.io/DEIM2023/3a-7-3.pdf)
 - **柳田雄輝**, 加藤誠, 河田友香, 山本岳洋, 大島裕明, 藤田澄男. オンラインショッピングにおける満足度と検索行動の関係分析. 第15回データ工学と情報マネジメントに関するフォーラム(DEIM 2023). オンライン&岐阜県岐阜市, Mar. 2023.
-  - [paper] [slide](https://speakerdeck.com/ynagi2/what-web-search-behaviors-lead-to-online-purchase-satisfaction-jp) [poster](https://speakerdeck.com/ynagi2/deim2023-poster-yanagida)
+  - [paper](https://proceedings-of-deim.github.io/DEIM2023/3a-4-3.pdf) [slide](https://speakerdeck.com/ynagi2/what-web-search-behaviors-lead-to-online-purchase-satisfaction-jp) [poster](https://speakerdeck.com/ynagi2/deim2023-poster-yanagida)
 - 河田友香, 山本岳洋, 大島裕明, **柳田雄輝**, 加藤誠, 藤田澄男. ECサイトでのカメラ購買前後におけるWeb検索クエリの時系列分析. 第14回データ工学と情報マネジメントに関するフォーラム(DEIM 2022). オンライン, Mar. 2022.
   - [paper](https://proceedings-of-deim.github.io/DEIM2022/papers/C41-4.pdf)
 - **柳田雄輝**, 加藤誠, 河田友香, 山本岳洋, 大島裕明, 藤田澄男. 検索行動に基づく購買満足度の関係分析. 第14回データ工学と情報マネジメントに関するフォーラム(DEIM 2022). オンライン, Feb. 2022.
