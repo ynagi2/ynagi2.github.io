@@ -12,8 +12,8 @@
   - [paper](https://dbsj.org/wp-content/uploads/2023/01/dds-vol1-no3.pdf)
 
 ### 国際会議論文
-- Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima, **Yuki Yanagida**, Makoto P. Kato and Sumio Fujita. Analyzing Web Search Queries of Before and After Purchase on E-Commerce Site. In Proceedings of the 25th International Conference on Asia-Pacific Digital Libraries (ICADL 2023). Taipei, Taiwan, Dec 2023.
-  - \[paper\]
+- Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima, **Yuki Yanagida**, Makoto P. Kato and Sumio Fujita. Analyzing Web Search Queries of Before and After Purchase on E-Commerce Site. In Proceedings of the 25th International Conference on Asia-Pacific Digital Libraries (ICADL 2023). Taipei, Taiwan, Dec. 2023.
+  - [paper](https://link.springer.com/chapter/10.1007/978-981-99-8085-7_16)
 - **Yuki Yanagida**, Makoto P. Kato, Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima and Sumio Fujita. What Web Search Behaviors Lead to Online Purchase Satisfaction?. In Proceedings of the 15th ACM Web Science Conference (WebSci 2023). Online & Austin, Texas, USA., Apr. 2023.
   - [paper](https://dl.acm.org/doi/pdf/10.1145/3578503.3583615) [slide](https://speakerdeck.com/ynagi2/what-web-search-behaviors-lead-to-online-purchase-satisfaction-en)
 
@@ -86,6 +86,7 @@
 
 ## アカウント
 - mail: ynagi2 at klis.tsukuba.ac.jp
+- [ORCID](https://orcid.org/0000-0002-6691-2243)
 - [Twitter](https://twitter.com/antimony_sulfur)
 - [GitHub](https://github.com/ynagi2)
 - [Speaker Deck](https://speakerdeck.com/ynagi2)
