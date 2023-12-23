@@ -12,7 +12,7 @@
   - [paper](https://dbsj.org/wp-content/uploads/2023/01/dds-vol1-no3.pdf)
 
 ### 国際会議論文
-- Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima, **Yuki Yanagida**, Makoto P. Kato and Sumio Fujita. Analyzing Web Search Queries of Before and After Purchase on E-Commerce Site. In Proceedings of the 25th International Conference on Asia-Pacific Digital Libraries (ICADL 2023). Taipei, Taiwan, Dec. 2023.
+- Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima, **Yuki Yanagida**, Makoto P. Kato and Sumio Fujita. Analyzing Web Search Queries of Before and After Purchase on E-Commerce Site. In Proceedings of the 25th International Conference on Asia-Pacific Digital Libraries (ICADL 2023). Taipei, Taiwan, Dec. 2023. (poster paper)
   - [paper](https://link.springer.com/chapter/10.1007/978-981-99-8085-7_16)
 - **Yuki Yanagida**, Makoto P. Kato, Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima and Sumio Fujita. What Web Search Behaviors Lead to Online Purchase Satisfaction?. In Proceedings of the 15th ACM Web Science Conference (WebSci 2023). Online & Austin, Texas, USA., Apr. 2023.
   - [paper](https://dl.acm.org/doi/pdf/10.1145/3578503.3583615) [slide](https://speakerdeck.com/ynagi2/what-web-search-behaviors-lead-to-online-purchase-satisfaction-en)
@@ -67,6 +67,7 @@
   - 学士(図書館情報学)(筑波大学)
 
 ## 資格等
+- Dec. 2023. 応用情報技術者
 - Mar. 2021. テクニカルコミュニケーター専門課程修了
 - Mar. 2021. 司書
 - Sep. 2019. 普通自動車第一種運転免許(AT限定)
