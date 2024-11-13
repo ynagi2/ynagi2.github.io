@@ -2,7 +2,7 @@
 
 ## 所属
 - Aug. 2020. - current [ACM SIGIR 東京支部](https://sigir.jp/) 会員
-- Sep. 2020. - Mar. 2023 [日本データベース学会](https://dbsj.org/) 学生会員
+- Sep. 2020. - current [日本データベース学会](https://dbsj.org/) 会員
 - Apr. 2020. - Mar. 2023 [知識獲得システム研究室](https://kasys.slis.tsukuba.ac.jp/)
 
 ## 研究業績
